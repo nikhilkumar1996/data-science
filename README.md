@@ -1,6 +1,4 @@
 <-------------------------ATM Simulator -------------------------------------->
-# ATM Simulator Readme
-
 ## Introduction
 This program simulates an Automated Teller Machine (ATM) where users can perform various banking operations such as cash withdrawal, cash deposit, and balance inquiry.
 
@@ -32,9 +30,6 @@ This program simulates an Automated Teller Machine (ATM) where users can perform
 
 
 <-----------------------------------Age Calculator ----------------------------------->
-
-# Survival Calculator
-
 ## Introduction
 This program calculates the duration of a person's life in different units such as months, weeks, days, hours, minutes, and seconds based on their age.
 
